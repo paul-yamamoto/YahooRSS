@@ -1,1 +1,3 @@
-iSwiftBondで作ったTableViewのサンプル
+SwiftBondで作ったTableViewのサンプル
+
+cocoapod で SwiftBondをインストールして下さい
